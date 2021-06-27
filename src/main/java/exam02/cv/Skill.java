@@ -1,5 +1,6 @@
 package exam02.cv;
 
+
 public class Skill {
 
     private String name;
@@ -17,4 +18,5 @@ public class Skill {
     public int getLevel() {
         return level;
     }
+
 }
